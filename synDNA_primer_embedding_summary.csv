@@ -1,0 +1,6 @@
+name,target_gc_percent,actual_gc_percent,length_bp,fwd_primer_515F_pos,rev_primer_806R_pos,amplicon_size_bp,fwd_primer_placed_correctly,rev_primer_placed_correctly,all_constraints_pass
+synDNA_GC26_515F806R,26.0,26.45,2000,201-219,434-453,253,True,True,True
+synDNA_GC36_515F806R,36.0,35.5,2000,201-219,434-453,253,True,True,True
+synDNA_GC46_515F806R,46.0,46.5,2000,201-219,434-453,253,True,True,True
+synDNA_GC56_515F806R,56.0,56.45,2000,201-219,434-453,253,True,True,True
+synDNA_GC66_515F806R,66.0,66.45,2000,201-219,434-453,253,True,True,True

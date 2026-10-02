@@ -1,0 +1,15 @@
+=== Query: synDNA_GC26 ===
+PASS -- no hit with E-value < 0.01 found. Sequence appears novel.
+
+=== Query: synDNA_GC36 ===
+PASS -- no hit with E-value < 0.01 found. Sequence appears novel.
+
+=== Query: synDNA_GC46 ===
+PASS -- no hit with E-value < 0.01 found. Sequence appears novel.
+
+=== Query: synDNA_GC56 ===
+PASS -- no hit with E-value < 0.01 found. Sequence appears novel.
+
+=== Query: synDNA_GC66 ===
+PASS -- no hit with E-value < 0.01 found. Sequence appears novel.
+
